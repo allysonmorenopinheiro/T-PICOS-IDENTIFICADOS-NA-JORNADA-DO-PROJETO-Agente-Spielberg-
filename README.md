@@ -72,6 +72,7 @@ O **Agente Spielberg** é um assistente especializado desenvolvido para o canal 
 - **Monitoramento de dores** 24/7 com 19 gatilhos de alerta
 - **Geração de thumbnails** sem texto com olho esquerdo vermelho como identidade visual
 - **Análise de concorrentes** e tendências pré-virais
+- **Canal no YouTube: https://www.youtube.com/@The_Architect-j8j
 
 ---
 
